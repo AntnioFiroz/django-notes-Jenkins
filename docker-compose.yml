@@ -1,6 +1,6 @@
 version : "3.3"
 services :
   web :
-     image : shamsant/my-notes-app:latest
+     image : my-note-app-django:latest
      ports :
          - "8000:8000"
